@@ -1,0 +1,24 @@
+{
+  "name": "irc-replies",
+  "version": "1.0.0",
+  "description": "RFC 1459 IRC reply codes",
+  "main": "replies.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamwicks/irc-replies.git"
+  },
+  "keywords": [
+    "1459",
+    "IRC",
+    "reply",
+    "codes"
+  ],
+  "author": "William Wicks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamwicks/irc-replies/issues"
+  }
+}
