@@ -1,6 +1,6 @@
 {
   "name": "irc-replies",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "RFC 1459 IRC reply codes",
   "main": "replies.json",
   "scripts": {
