@@ -1,6 +1,6 @@
 {
   "name": "irc-replies",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "RFC 1459 IRC reply codes",
   "main": "replies.json",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/williamwicks/irc-replies.git"
+    "url": "https://github.com/williamkapke/irc-replies.git"
   },
   "keywords": [
     "1459",
@@ -16,9 +16,9 @@
     "reply",
     "codes"
   ],
-  "author": "William Wicks",
+  "author": "William Kapke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/williamwicks/irc-replies/issues"
+    "url": "https://github.com/williamkapke/irc-replies/issues"
   }
 }
